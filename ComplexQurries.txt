@@ -1,0 +1,18 @@
+Complex quries :
+
+which brand was sold the most in Santa Cruz Bikes and what was the quantity was sold
+
+
+get the staff name who has sold more products of Electra in the store Santa Cruz Bikes
+
+
+How many products are currently in stock in each store, and what is the store with the highest stock quantity?
+
+can you provide a list of the names of the employees in each store
+
+	Intellegence
+Can you provide a list of the top 5 customers who have made the highest total purchases, including their names and the total amount spent?
+	
+
+can you give me list of products that are generating the most revenue for the company?
+
